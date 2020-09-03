@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1558318599 source:c:\users\ivan-\onedrive\escritorio\nueva carpeta (2)\mv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<ctype.h>
+	"Prototipos.h"
+
+1558318172 c:\users\ivan-\onedrive\escritorio\nueva carpeta (2)\mv\prototipos.h
+
+1558323223 source:c:\users\ivan-\onedrive\escritorio\mv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<ctype.h>
+	"Prototipos.h"
+
+1558323589 c:\users\ivan-\onedrive\escritorio\mv\prototipos.h
+
+1585856497 source:c:\users\nico_\desktop\facultad\arquitectura\maquina\mv entregaa\mv\mv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<ctype.h>
+	"Prototipos.h"
+
+1558343526 c:\users\nico_\desktop\facultad\arquitectura\maquina\mv entregaa\mv\mv\prototipos.h
+
